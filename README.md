@@ -30,7 +30,7 @@ The instrument consists of a latex membrane stretched above a 15-inch loudspeake
 
 ### Step 1 — Upload the Arduino firmware
 
-Open `load_cell_reader.ino` in the Arduino IDE and upload it to the Arduino Mega. Once uploaded, the Arduino will continuously read all eight load cells and send the data over USB serial.
+Open `DataInput_Arduino.ino` in the Arduino IDE and upload it to the Arduino Mega. Once uploaded, the Arduino will continuously read all eight load cells and send the data over USB serial.
 
 ### Step 2 — Open the Max patches
 
