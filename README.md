@@ -13,7 +13,7 @@ The instrument consists of a latex membrane stretched above a 15-inch loudspeake
 | `Input_Scaling.maxpat` | Serial input, tare, scaling, and data transformation. Always required. |
 | `Sine_Engine.maxpat` | Eight sine oscillators, one per sensor. |
 | `Karplus_Strong_Engine.maxpat` | Dual coupled feedback delay engine. |
-| `load_cell_reader.ino` | Arduino Mega firmware. Reads 8 load cells and sends data over USB serial. |
+| `DataInput_Arduino.ino` | Arduino Mega firmware. Reads 8 load cells and sends data over USB serial. |
 
 ---
 
