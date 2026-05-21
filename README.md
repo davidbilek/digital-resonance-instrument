@@ -1,6 +1,6 @@
-# Membrane Instrument
+# digital-resonance-code
 
-Max/MSP patches and Arduino firmware for a custom digital instrument built as part of a master's thesis in Artistic Research at the Institute of Sonology, Royal Conservatoire, The Hague (2026).
+Max/MSP patches and Arduino firmware for a custom digital instrument built as part of a master's thesis at the Institute of Sonology, Royal Conservatoire, The Hague (2026).
 
 The instrument consists of a latex membrane stretched above a 15-inch loudspeaker on a welded steel stand. Eight load cell sensors around the membrane read pressure distribution across its surface. Sensor data is sent over USB serial from an Arduino Mega to Max/MSP, where it is scaled, transformed, and mapped to synthesis parameters.
 
